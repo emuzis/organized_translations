@@ -1,1 +1,3 @@
 rake task to organize current and missing translations by language and their second level key
+
+requires "ya2yaml" gem for utf values
